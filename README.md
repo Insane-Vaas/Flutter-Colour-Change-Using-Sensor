@@ -43,7 +43,6 @@ Accessing Mobile Sensors using Flutte is not hence to get access we have to writ
 or use the brew command
 ``` bash
 brew install kotlin
-
 ```
 
 
