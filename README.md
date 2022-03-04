@@ -38,13 +38,13 @@ For More info click on [link](https://docs.flutter.dev/development/platform-inte
 
 ## 3. Android Sensors
 
-Accessing Mobile Sensors using Flutte is not hence to get access we have to write code in native language. It's platform specified as above in section 2. We can asscess sensor using native codes in this example i have written code in Kotlin. you can install kotlin using this [link](https://kotlinlang.org/docs/command-line.html)
+Accessing Mobile Sensors using Flutter is not possible hence to get access we have to write code in native language. It's platform specified as above in section 2. We can asscess sensor using native codes in this example I have written code in Kotlin. you can install kotlin using this [link](https://kotlinlang.org/docs/command-line.html)
 
 or use the brew command
 ``` bash
 brew install kotlin
 ```
-
+\* *Note 
 
 ## n. Results
 ![light_intensity_mode](https://user-images.githubusercontent.com/46975685/156742964-897f7487-847e-400b-a01d-353cd7c93849.gif)
