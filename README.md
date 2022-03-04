@@ -44,7 +44,7 @@ or use the brew command
 ``` bash
 brew install kotlin
 ```
-* *Note 
+* *Note - When accessing Kotlin file using vs code I was getting so i will suggest you to open that using Android Studio.* 
 
 ## n. Results
 ![light_intensity_mode](https://user-images.githubusercontent.com/46975685/156742964-897f7487-847e-400b-a01d-353cd7c93849.gif)
