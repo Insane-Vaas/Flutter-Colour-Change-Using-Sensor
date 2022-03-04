@@ -69,6 +69,8 @@ As it being a Demo, I made a list of colors and used ternary operator. Based on 
 ## 5. Results
 
 🎉 Finally here we haveo our result.
+
+
 ![light_intensity_mode](https://user-images.githubusercontent.com/46975685/156742964-897f7487-847e-400b-a01d-353cd7c93849.gif)
 
 
