@@ -49,6 +49,10 @@ static const methodChannel = MethodChannel('com.lightapp.light/method');
 static const pressureChannel = EventChannel('com.lightapp.light/intensity');
 ```
 
+For Android we can find the kt file in Android -> app -> main -> src -> kotlin.
+
+*If you want to write code in java just open the java folder for that.*
+
 *For Kotlin File -*
 
 ``` kt
@@ -58,6 +62,8 @@ private val INTENSITY_CHANNEL_NAME = "com.lightapp.light/intensity"
 
 Now its time to access the sensors in the Mobile Phone. you can use the method as I have written it in files or use this [link](https://developer.android.com/reference/kotlin/android/hardware/Sensor) for more info.
 
+## 4. Changing Colours
+As it being a Demo, I made a list of colors and used ternary operator. Based on the value of the intensity of light that i am getting from the sensor and ternary operator I changed the value of colours. and it was in reverse order for the Text.
 
 
 ## n. Results
