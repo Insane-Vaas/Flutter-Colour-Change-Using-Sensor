@@ -66,7 +66,9 @@ Now its time to access the sensors in the Mobile Phone. you can use the method a
 As it being a Demo, I made a list of colors and used ternary operator. Based on the value of the intensity of light that i am getting from the sensor and ternary operator I changed the value of colours. and it was in reverse order for the Text.
 
 
-## n. Results
+## 5. Results
+
+🎉 Finally here we haveo our result.
 ![light_intensity_mode](https://user-images.githubusercontent.com/46975685/156742964-897f7487-847e-400b-a01d-353cd7c93849.gif)
 
 
