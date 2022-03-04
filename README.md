@@ -46,7 +46,7 @@ As we can see in Image in section 2 we have to make a method channel that name o
 *For Dart File -*
 ```dart
 static const methodChannel = MethodChannel('com.lightapp.light/method');
-static const pressureChannel = EventChannel('com.lightapp.light/intensity');
+static const intensityChannel = EventChannel('com.lightapp.light/intensity');
 ```
 
 For Android we can find the kt file in Android -> app -> main -> src -> kotlin.
