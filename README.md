@@ -44,9 +44,24 @@ or use the brew command
 ``` bash
 brew install kotlin
 ```
-* *Note - When accessing Kotlin file using vs code I was getting so i will suggest you to open that using Android Studio.* 
+* *Note - When accessing Kotlin file using vs code I was getting errors for gradle updates, so i will suggest you to open those .kt files using Android Studio.* 
 
 As we can see in Image in section 2 we have to make a method channel that name of the method channel should be same in both dart file and in kotlin file. As it makes it easy for them to talk or pass info among themselves. After that make an Event Channel with same name in both files.
+
+like
+
+For Dart File -
+```dart
+static const methodChannel = MethodChannel('com.lightapp.light/method');
+static const pressureChannel = EventChannel('com.lightapp.light/intensity');
+```
+
+For Kotlin File -
+
+``` kt
+private val METHOD_CHANNEL_NAME = "com.lightapp.light/method"
+private val INTENSITY_CHANNEL_NAME = "com.lightapp.light/intensity"
+```
 
 Now its time to access the sensors in the Mobile Phone. you can use the method as I have written it in files or use this [link](https://developer.android.com/reference/kotlin/android/hardware/Sensor) for more info.
 
