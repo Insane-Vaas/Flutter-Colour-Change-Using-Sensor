@@ -48,15 +48,15 @@ brew install kotlin
 
 As we can see in Image in section 2 we have to make a method channel that name of the method channel should be same in both dart file and in kotlin file. As it makes it easy for them to talk or pass info among themselves. After that make an Event Channel with same name in both files.
 
-like
+*Like*
 
-For Dart File -
+*For Dart File -*
 ```dart
 static const methodChannel = MethodChannel('com.lightapp.light/method');
 static const pressureChannel = EventChannel('com.lightapp.light/intensity');
 ```
 
-For Kotlin File -
+*For Kotlin File -*
 
 ``` kt
 private val METHOD_CHANNEL_NAME = "com.lightapp.light/method"
