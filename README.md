@@ -36,6 +36,15 @@ Flutter uses a flexible system that allows you to call platform-specific APIs in
 
 For More info click on [link](https://docs.flutter.dev/development/platform-integration/platform-channels?tab=type-mappings-java-tab)
 
+## 3. Android Sensors
+
+Accessing Mobile Sensors using Flutte is not hence to get access we have to write code in native language. It's platform specified as above in section 2. We can asscess sensor using native codes in this example i have written code in Kotlin. you can install kotlin using this [link](https://kotlinlang.org/docs/command-line.html)
+
+or use the brew command
+``` bash
+brew install kotlin
+
+```
 
 
 ## n. Results
