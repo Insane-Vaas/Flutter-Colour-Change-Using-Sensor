@@ -34,6 +34,8 @@ Flutter uses a flexible system that allows you to call platform-specific APIs in
 
 ![PlatformChannels](https://user-images.githubusercontent.com/46975685/156743506-5649792f-c73f-4e48-8127-67b6f1fb0e95.png)
 
+For More info click on [link](https://docs.flutter.dev/development/platform-integration/platform-channels?tab=type-mappings-java-tab)
+
 
 
 ## n. Results
