@@ -27,6 +27,7 @@ brew install --cask android-studio
 
 
 ## n. Results
-https://user-images.githubusercontent.com/46975685/156742533-4668f123-5bf7-4666-98d8-3add673a7d5d.mov
+![light_intensity_mode](https://user-images.githubusercontent.com/46975685/156742964-897f7487-847e-400b-a01d-353cd7c93849.gif)
+
 
 ****
