@@ -25,10 +25,5 @@ brew install --cask android-studio
 
 ## 2.Setting up
 
-- Open TODO Backend Folder and navigate to 
- src -> main -> resources -> application.properties
- 
- open it using Intellij Idea. Change username and password accodring to your MySQL root username and password.
- 
-- open VS Code and Navigate to TODOfront. Open the lib folder and run the Android or XCode emulator.
+
 ****
