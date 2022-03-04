@@ -23,7 +23,14 @@ brew install --cask visual-studio-code
 brew install --cask android-studio
 ```
 
-## 2.Setting up
+## 2. Writing Native Code in Flutter
+Flutter uses a flexible system that allows you to call platform-specific APIs in a language that works directly with those APIs:
+
+- Kotlin or Java on Android
+- Swift or Objective-C on iOS
+- C++ on Windows
+- Objective-C on macOS
+- C on Linux
 
 
 ## n. Results
