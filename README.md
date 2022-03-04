@@ -1,16 +1,34 @@
-# lightapp
+# Flutter App demo that changes colour or mode based on the intensity of light, Using Sensor.
 
-A new Flutter project.
+## 1.INSTALLATION
 
-## Getting Started
+- Flutter Installation
+  -> download the flutter file according to your OS. [Flutter Link](https://docs.flutter.dev/get-started/install)
+or you can can use brew command
 
-This project is a starting point for a Flutter application.
+``` bash
+brew install --cask flutter
+```
+- Intellij IDEA CE Installation -> Use [this link](https://www.jetbrains.com/idea/) to download CE version or you can use brew command
+``` bash
+brew install --cask intellij-idea-ce
+```
+- MySQL Installation -> Use [this link](https://dev.mysql.com/downloads/mysql/) to download MySQL.
+- VS Code Installation -> Use [this link](https://code.visualstudio.com/Download) to download VS Code / use brew command 
+``` bash
+brew install --cask visual-studio-code
+```
+- Install Android Studio -> use [this link](https://developer.android.com/studio) to download Android Studio / use brew command
+``` bash
+brew install --cask android-studio
+```
 
-A few resources to get you started if this is your first Flutter project:
+## 2.Setting up
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Open TODO Backend Folder and navigate to 
+ src -> main -> resources -> application.properties
+ 
+ open it using Intellij Idea. Change username and password accodring to your MySQL root username and password.
+ 
+- open VS Code and Navigate to TODOfront. Open the lib folder and run the Android or XCode emulator.
+****
