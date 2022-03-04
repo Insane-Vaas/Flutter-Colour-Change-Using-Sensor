@@ -32,6 +32,9 @@ Flutter uses a flexible system that allows you to call platform-specific APIs in
 - Objective-C on macOS
 - C on Linux
 
+![PlatformChannels](https://user-images.githubusercontent.com/46975685/156743506-5649792f-c73f-4e48-8127-67b6f1fb0e95.png)
+
+
 
 ## n. Results
 ![light_intensity_mode](https://user-images.githubusercontent.com/46975685/156742964-897f7487-847e-400b-a01d-353cd7c93849.gif)
