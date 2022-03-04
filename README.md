@@ -46,6 +46,12 @@ brew install kotlin
 ```
 * *Note - When accessing Kotlin file using vs code I was getting so i will suggest you to open that using Android Studio.* 
 
+As we can see in Image in section 2 we have to make a method channel that name of the method channel should be same in both dart file and in kotlin file. As it makes it easy for them to talk or pass info among themselves. After that make an Event Channel with same name in both files.
+
+Now its time to access the sensors in the Mobile Phone. you can use the method as I have written it in files or use this [link](https://developer.android.com/reference/kotlin/android/hardware/Sensor) for more info.
+
+
+
 ## n. Results
 ![light_intensity_mode](https://user-images.githubusercontent.com/46975685/156742964-897f7487-847e-400b-a01d-353cd7c93849.gif)
 
